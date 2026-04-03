@@ -1,6 +1,6 @@
 # 📝 Konstandinos Belina
 
-📧 [Email](mailto:kostasbelinas1500@gmail.com)  | 💼 [LinkedIn](https://www.linkedin.com/in/konstandinos-belina-325787243) 
+💼 [LinkedIn](https://www.linkedin.com/in/konstandinos-belina-325787243) 
 
 ---
 
