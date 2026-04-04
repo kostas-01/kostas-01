@@ -25,16 +25,15 @@ I’m a **Software Test Analyst** and a lifelong **Tech Enthusiast**. I’m the 
 
 ### ⚡ A Little Bit About Me...
 
-- 🔭 **Currently:** Leading automated testing strategies at the University of Lancashire.
+- 🔭 **Currently:** Leading automated testing strategies at my workplace and getting involved in multiple projects to add my expertise 
 - ⚙️ **Workflow:** I'm heavily experienced in **Jira** and **Azure DevOps (ADO)** for managing sprints, tracking defects, and keeping high-speed Agile environments running smoothly.
-- 💡 **Tech Obsession:** I love building CI/CD-ready test suites using **JavaScript/TypeScript** and **Python** to give teams the green light to deploy with confidence.
+- 💡 **Tech Obsession:** I love building CI/CD-ready test suites using **JavaScript/TypeScript** to give teams the green light to deploy with confidence.
 - 🌱 **Growth Mindset:** Deepening my knowledge in cloud-based QA infrastructure and performance testing.
-- 🎮 **Fun Fact:** My journey started in **Vehicle Science & Technology**—I’ve always had a passion for understanding how complex machines work, whether they have four wheels or a thousand lines of code.
-
+- 🎮 **Fun Fact:** My journey started from being a warehouse oparative - I’ve always had a passion for understanding technology, from application and videogame's code to how electronics work
 ---
 
 ### 🧪 Engineering Excellence
-- **CI/CD Savvy:** I don't just write tests; I bake them into the build process. I have extensive experience with **Jenkins** and **GitHub Actions** pipelines.
+- **CI/CD Savvy:** I don't just write tests; I bake them into the build process. I have extensive experience with BitBucket, Azure pipelines, GitHub Actions and Jenkins.
 - **Strategic QA:** I focus on **Page Object Model (POM)** and **SOLID** principles to ensure automation suites are maintainable and scalable.
 - **User-Centric:** Beyond the code, I specialize in **Accessibility Testing** to ensure software is inclusive for everyone.
 
